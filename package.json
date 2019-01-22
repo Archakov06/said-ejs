@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-ejs": "^3.3.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.11.0"
+  }
+}
